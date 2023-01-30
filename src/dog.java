@@ -14,7 +14,7 @@
 
         public void wooh() {
             weight = weight - 1;
-            System.out.println("Wooh!");
+            System.out.println("Woooh!");
         }
 
         public void feed(Double amount) {
